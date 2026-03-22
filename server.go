@@ -162,7 +162,6 @@ func ch_download(target net.Conn, filename string) {
 		return
 	}
 	if response, ok := nude["response"]; ok {
-		fmt.Println(response)
 		if strResponse, ok := response.(string); ok {
 			if strings.Contains(strResponse, "File Exists") {
 				fmt.Println("\nDownloading File From Client")
