@@ -30,6 +30,7 @@
     - File upload/download between server & client
     - Screenshot
     - Auto reconnect
+    - More features will be added
 
 ## Important
     This code is for educational purposes only. Use only on systems you own or have explicit permission to test. Unauthorized use is illegal.
